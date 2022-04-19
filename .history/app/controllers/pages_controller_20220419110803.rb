@@ -9,6 +9,4 @@ class PagesController < ApplicationController
   end
 
   def four
-  end
-  
 end

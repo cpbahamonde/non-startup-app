@@ -8,7 +8,5 @@ class PagesController < ApplicationController
   def three
   end
 
-  def four
-  end
-  
+  def f.submit "Submit", disable_with: 'Submiting...'
 end
